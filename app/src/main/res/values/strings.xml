@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">blood</string>
+    <string name="title_activity_donate_screen">DonateScreen</string>
+    <string name="title_activity_require_screen">RequireScreen</string>
+</resources>
